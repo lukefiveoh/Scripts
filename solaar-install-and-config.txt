@@ -1,0 +1,12 @@
+Put the following in ~/.config/solaar/rules.yaml (yes including the 3 dots at the bottom
+
+%YAML 1.3
+---
+- Key: [Smart Shift, pressed]
+- MouseClick: [middle, 1]
+...
+
+
+
+######
+
